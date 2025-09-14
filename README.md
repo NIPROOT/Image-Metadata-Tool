@@ -220,7 +220,7 @@ All MetaData Removed!!!
 
 ## License
 
-MIT License - Free to use, modify, and distribute
+Apace License - Free to use, modify, and distribute
 
 ---
 
@@ -232,7 +232,4 @@ MIT License - Free to use, modify, and distribute
 
 ![Contact GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
----
-
-*This README contains ~300 lines with detailed explanation, GIFs for visualization, and full usage instructions for the Image Metadata Extractor & Remover tool.*
 
