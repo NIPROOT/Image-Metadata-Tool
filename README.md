@@ -210,7 +210,4 @@ Refer to the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) f
 
 ![Contact GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
----
-
-*This README is fully detailed, includes GIFs, commands, usage examples, explanations for `main.py` and `requirements.txt`, future plans, and license information (~300+ lines).*
 
